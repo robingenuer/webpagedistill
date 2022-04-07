@@ -1,0 +1,56 @@
+---
+title: "Publications"
+description: |
+  Articles, Books, Chapters, PhD Thesis, HDR
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+- A. Devaux, R. Genuer, K. Pérès, C. Proust-Lima, **Individual dynamic prediction of clinical endpoint from large dimensional longitudinal biomarker history: a landmark approach**, arXiv:2102.01466, submitted (2021) [pdf](https://arxiv.org/pdf/2102.01466.pdf)
+
+- L. Capitaine, J. Bigot, R. Thiébaut, R. Genuer, **Fréchet random forests for metric space valued regression with non euclidean predictors**, arXiv:1906.01741, submitted (2020) [pdf](https://arxiv.org/pdf/1906.01741.pdf)
+
+- R. Genuer, J.-M. Poggi, **Random Forests with R**, Use’R!, Springer (2020) [link] [book site]
+
+- L. Capitaine, R. Genuer, R. Thiébaut, **Random forests for high-dimensional longitudinal data**, *Statistical Methods in Medical Research*, 30(1):166-184 (2021) [doi] [preprint pdf]
+
+- R. Genuer, J.-M. Poggi, **Les forêts aléatoires avec R**, Presses Universitaires de Rennes (2019) [link] [book site]
+
+- M. Chavent, R. Genuer, J. Saracco, **Combining clustering of variables and feature selection using random forests**, *Communications in Statistics – Simulation and Computation*, 50(2):426-445 (2021) [doi] [preprint pdf]
+
+- R. Genuer, J.-M. Poggi, **Arbres CART et Forêts aléatoires, Importance et sélection de variables**, In *Apprentissage Statistique et Données Massives*, Maumy-Bertrand M., Saporta G. et Thomas Agnan C. (eds), Technip, p. 295-342 (2018) [link]
+
+- M. Tabue-Teguo, L. Grasset, J.A. Avila-Funes, R. Genuer, C. Proust-Lima, K. Péres, C. Féart, H. Amieva, M. González-Colaço Harmand, C. Helmer, N. Salles, M. Rainfray, J.-F. Dartigues, **Prevalence and Co-Occurrence of Geriatric Syndromes in People Aged 75 Years and Older in France: Results From the Bordeaux Three-city Study**, *The journals of gerontology. Series A* 73(1):109-116 (2018) [doi]
+
+- L. Zago, P.-Y. Hervé, R. Genuer, A. Laurent, B. Mazoyer, N. Tzourio-Mazoyer, M. Joliot, **Predicting hemispheric dominance for language production in healthy individuals using support vector machine**, *Human Brain Mapping* 38(12):5871–5889 (2017) [doi]
+
+- R. Genuer, J.-M. Poggi, C. Tuleau-Malot, N. Villa-Vialaneix, **Random Forests for Big Data**, *Big Data Research*, 9:28-46 (2017) [doi] [preprint pdf]
+
+- R. Genuer, J.-M. Poggi, **Arbres CART et Forêts aléatoires, Importance et sélection de variables**, arXiv:1610.08203 (2016) [pdf]
+
+- S. Arlot, R. Genuer, **Comments on: « A Random Forest Guided Tour » by G. Biau and E. Scornet**, *TEST* 25(2):228-238 (2016) [doi] [preprint pdf] [article by Biau and Scornet]
+
+- R. Genuer, J.-M. Poggi, C. Tuleau-Malot, **VSURF: An R Package for Variable Selection Using Random Forests**, *The R Journal* 7(2):19-33 (2015) [pdf on journal’s website]
+
+- S. Arlot, R. Genuer, **Analysis of purely random forests bias**, arXiv:1407.3939 (2014) [pdf]
+
+- R. Genuer, **Variance reduction in purely random forests**, *Journal of Nonparametric Statistics* 24(3):543-562 (2012) [doi] [preprint pdf]
+
+- R. Genuer, J.-M. Poggi, C. Tuleau-Malot, **Variable selection using Random Forests**, *Pattern Recognition Letters* 31(14):2225-2236 (2010) [doi] [preprint pdf]
+
+- R. Genuer, V. Michel, E. Eger, B. Thirion, **Random Forests based feature selection for decoding fMRI data**, Proceedings of the 19th COMPSTAT p. 1071-1078 (2010) [preprint pdf]
+
+- R. Genuer, I. Morlais, W. Toussile, **Gametocytes infectiousness to mosquitoes: variable selection using random forests, and zero inflated models**, arXiv:1101.0344 (2010) [pdf]
+
+- R. Genuer, J.-M. Poggi, C. Tuleau, **Random Forests: some methodological insigths**, arXiv:0811.3619 (2008) [pdf]
+
+
+
+PhD thesis and HDR
+
+    Habilitation à Diriger des Recherches (HDR), defended January 12, 2021 at Université de Bordeaux, Contributions to Random Forests Methods for several Data Analysis Problems [TEL]
+    PhD thesis, directed by Jean-Michel Poggi and defended November 24, 2010 at Université Paris-Sud, Orsay, Forêts aléatoires : aspects théoriques, sélection de variables et applications [TEL] [thèse] [soutenance]
+

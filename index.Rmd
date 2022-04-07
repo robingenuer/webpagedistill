@@ -1,18 +1,45 @@
 ---
-title: "rg-distill"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "Robin Genuer"
+image: "robin.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/robin-genuer-08b271199/"
+  - label: GitHub
+    url: "https://github.com/robingenuer"
+  - label: Email
+    url: "mailto:robin.genuer@u-bordeaux.fr"
+output:
+  postcards::trestles
 site: distill::distill_website
 ---
+ 
+## Bio
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+Robin Genuer is an associate professor in statistics.
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+## Publications
 
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
+- A. Devaux, R. Genuer, K. Pérès, C. Proust-Lima, **Individual dynamic prediction of clinical endpoint from large dimensional longitudinal biomarker history: a landmark approach**, arXiv:2102.01466, submitted (2021) [pdf](https://arxiv.org/pdf/2102.01466.pdf)
 
-```
+- L. Capitaine, J. Bigot, R. Thiébaut, R. Genuer, **Fréchet random forests for metric space valued regression with non euclidean predictors**, arXiv:1906.01741, submitted (2020) [pdf](https://arxiv.org/pdf/1906.01741.pdf)
+
+## Sotware
+
+The R package VSURF is available on CRAN (and under development on github).
+VSURF stands for Variable Selection Using Random Forests.
+
+The package is fully described in the following article :
+R. Genuer, J.-M. Poggi, C. Tuleau-Malot VSURF: An R Package for Variable Selection Using Random Forests. The R Journal, 7(2):19-33 (2015) [pdf](https://journal.r-project.org/archive/2015-2/genuer-poggi-tuleaumalot.pdf)
+
+
+## Education
+
+**Univ. Paris-Sud** | Orsay
+
+Ph.D. in Mathematics | November 2010
+
+
+## Experience
+
+**Univ. Bordeaux** | Associate professor | September 2011 - Present
 
